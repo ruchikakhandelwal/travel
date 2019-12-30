@@ -1,4 +1,5 @@
 ---
 layout: contact
-title: TravelBlog
+title: Contact
+order: 5
 ---

@@ -1,4 +1,5 @@
 ---
 layout: destination
-title: TravelBlog - Desti
+title: Destination
+order: 3
 ---

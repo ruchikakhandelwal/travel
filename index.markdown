@@ -1,4 +1,5 @@
 ---
 layout: default
-title: TravelBlog
+title: Home
+order: 1
 ---

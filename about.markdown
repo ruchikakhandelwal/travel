@@ -1,4 +1,5 @@
 ---
 layout: about
-title: TravelBlog
+title: About
+order: 2
 ---

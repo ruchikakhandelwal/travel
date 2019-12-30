@@ -1,4 +1,5 @@
 ---
 layout: blog-single
-title: TravelBlog - Single
+title: Blog
+order: 6
 ---

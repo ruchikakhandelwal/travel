@@ -1,7 +1,7 @@
 <!DOCTYPE html>	
 <html lang="en">	
   <head>	
-    <title>{{ page.title }}</title>	
+    <title>{{ site.title }} - {{ page.title }}</title>	
     <meta charset="utf-8">	
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">	
     	
@@ -24,7 +24,20 @@
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
         <div class="container">
-          <a class="navbar-brand" href="index.html">Travel World<span>Travel Stories</span></a>
+          <a class="navbar-brand" href="index.html">{{ site.title }}<span>Travel Stories</span></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="oi oi-menu"></span> Menu
           </button>
+          {% assign pages_list = (site.pages | sort: 'order') %}
+          <div class="collapse navbar-collapse" id="ftco-nav">
+            <ul class="navbar-nav ml-auto">
+                {% for item in pages_list %}
+                    {% if item.order > 0 %}
+                        <li class="nav-item {% if page.url == item.url %}active{% endif %}"><a href="{{ item.url | relative_url}}" class="nav-link">{{ item.title }}</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+      </div>
+    </div>
+  </nav>
+          
