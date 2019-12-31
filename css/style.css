@@ -8248,16 +8248,16 @@ h1, h2, h3, h4, h5,
     opacity: .4;
     background: #000000;
     background: #2f88fc;
-    background: -moz-linear-gradient(45deg, #2f88fc 0%, #ff5959 100%);
-    background: -webkit-gradient(left bottom, right top, color-stop(0%, #2f88fc), color-stop(100%, #ff5959));
-    background: -webkit-linear-gradient(45deg, #2f88fc 0%, #ff5959 100%);
-    background: -o-linear-gradient(45deg, #2f88fc 0%, #ff5959 100%);
-    background: -ms-linear-gradient(45deg, #2f88fc 0%, #ff5959 100%);
-    background: linear-gradient(45deg, #2f88fc 0%, #ff5959 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2f88fc', endColorstr='#ff5959', GradientType=1 ); }
+    background: -moz-linear-gradient(45deg, #2f88fc 0%, #a9f3ff 100%);
+    background: -webkit-gradient(left bottom, right top, color-stop(0%, #2f88fc), color-stop(100%, #a9f3ff));
+    background: -webkit-linear-gradient(45deg, #2f88fc 0%, #a9f3ff 100%);
+    background: -o-linear-gradient(45deg, #2f88fc 0%, #a9f3ff 100%);
+    background: -ms-linear-gradient(45deg, #2f88fc 0%, #a9f3ff 100%);
+    background: linear-gradient(45deg, #2f88fc 0%, #a9f3ff 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2f88fc', endColorstr='#a9f3ff', GradientType=1 ); }
   .hero-wrap.hero-wrap-2 .overlay {
     width: 100%;
-    opacity: .2; }
+    opacity: .1; }
 
 .slider-text .text {
   width: 100%; }
