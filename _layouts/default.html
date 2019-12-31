@@ -381,11 +381,11 @@
                       <div class="text mt-3 float-right d-block">
                         <div class="d-flex align-items-center mb-4 topp">
                             <div class="one">
-                                <span class="day">21</span>
+                                <span class="day">{{ post.date | date: '%d' }}</span>
                             </div>
                             <div class="two">
-                                <span class="yr">2019</span>
-                                <span class="mos">August</span>
+                                <span class="yr">{{ post.date | date: '%Y' }}</span>
+                                <span class="mos">{{ post.date | date: '%B' }}</span>
                             </div>
                         </div>
                         <h3 class="heading"><a href="{{post.url | relative_url}}">{{post.title}}</a></h3>

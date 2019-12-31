@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Journey to Shivanasamudra"
-date:   2019-10-17 18:00:00 +0530
-categories: karnataka shivanasamudra
-permalink: /karnataka-shivanasamudra.html
+title:  "Journey to Hogenakkal"
+date:   2019-12-12 18:00:00 +0530
+categories: karnataka hogenakkal
+permalink: /karnataka-hogenakkal.html
 backdrop: images/posts/shivanasamudra/backdrop.jpg
 ---
 <section class="ftco-section ftco-no-pt ftco-no-pb">
