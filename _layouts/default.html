@@ -376,7 +376,7 @@
             {% for post in site.posts%}
                 <div class="col-md-4 d-flex ftco-animate">
                     <div class="blog-entry justify-content-end">
-                      <a href="{{post.url | relative_url}}" class="block-20" style="background-image: url('images/image_1.jpg');">
+                      <a href="{{post.url | relative_url}}" class="block-20" style="background-image: url('{{ post.backdrop }}');">
                       </a>
                       <div class="text mt-3 float-right d-block">
                         <div class="d-flex align-items-center mb-4 topp">
@@ -388,8 +388,8 @@
                                 <span class="mos">{{ post.date | date: '%B' }}</span>
                             </div>
                         </div>
-                        <h3 class="heading"><a href="{{post.url | relative_url}}">{{post.title}}</a></h3>
-                        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                        <h3 class="heading"><a href="{{post.url | relative_url}}">{{ post.title }}</a></h3>
+                        <p>{{ post.description }}</p>
                       </div>
                     </div>
                 </div>
