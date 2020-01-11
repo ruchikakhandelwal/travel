@@ -39,6 +39,21 @@ description: A famous waterfall situated in Mandya District of Karnataka State. 
 </p>
 <p>The eastern branch of the waterfall is known as Barachukki while the western branch is known as Gaganachukki. Barachukki and Gaganachukki waterfalls are together known as the Shivanasamudra Falls.</p>
 <h2 class="mb-3">The Itinerary</h2>
+
+<div class="carousel carousel-main" data-flickity='{"pageDots": false }'>
+  <div class="carousel-cell"><img src="//placehold.it/730x504/3391cc/ffffff"/></div>
+  <div class="carousel-cell"><img src="//placehold.it/730x504/3366cc/ffffff"/></div>
+  <div class="carousel-cell"><img src="//placehold.it/730x504/394cc6/ffffff"/></div>
+</div>
+
+<div class="carousel carousel-nav"
+  data-flickity='{ "asNavFor": ".carousel-main", "contain": true, "pageDots": false }'>
+  <div class="carousel-cell"><img src="//placehold.it/120x90/3391cc/ffffff"/></div>
+  <div class="carousel-cell"><img src="//placehold.it/120x90/3366cc/ffffff"/></div>
+  <div class="carousel-cell"><img src="//placehold.it/120x90/394cc6/ffffff"/></div>
+</div>
+
+
 <h2 class="mb-3">Gaganachukki falls</h2>
 <h2 class="mb-3">Barachukki falls</h2>
 <h2 class="mb-3">Important Tips</h2>
