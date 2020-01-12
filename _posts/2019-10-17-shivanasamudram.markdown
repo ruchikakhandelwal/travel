@@ -42,8 +42,8 @@ description: A famous waterfall situated in Mandya District of Karnataka State. 
 <img src="images/posts/shivanasamudra/us.jpg" alt="" class="img-fluid">
 <p>On the way</p>
 <div class="carousel carousel-main carousel-shiv-1" data-flickity='{"pageDots": false }'>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_1.jpeg" width="100%" height="100%" /></div>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_2.jpeg" width="100%" height="100%" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_1.jpeg" class="img-fluid" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_2.jpeg" class="img-fluid" /></div>
 </div>
 
 <div class="carousel carousel-nav"
@@ -54,10 +54,10 @@ description: A famous waterfall situated in Mandya District of Karnataka State. 
 
 <p>On return Journey</p>
 <div class="carousel carousel-main carousel-shiv-2" data-flickity='{"pageDots": false }'>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_3.jpeg" width="100%" height="100%" /></div>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_4.jpeg" width="100%" height="100%" /></div>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_5.jpeg" width="100%" height="100%" /></div>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_6.jpeg" width="100%" height="100%" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_3.jpeg" class="img-fluid" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_4.jpeg" class="img-fluid" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_5.jpeg" class="img-fluid" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_6.jpeg" class="img-fluid" /></div>
 </div>
 <div class="carousel carousel-nav"
   data-flickity='{ "asNavFor": ".carousel-shiv-2", "contain": true, "pageDots": false }'>
@@ -68,14 +68,14 @@ description: A famous waterfall situated in Mandya District of Karnataka State. 
 </div>
 <h2 class="mb-3">Gaganachukki falls</h2>
 <div class="carousel carousel-main carousel-shiv-3" data-flickity='{"pageDots": false }'>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_1.jpeg" width="100%" height="100%" /></div>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_2.jpeg" width="100%" height="100%" /></div>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_4.jpeg" width="100%" height="100%" /></div>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_5.jpeg" width="100%" height="100%" /></div>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_6.jpeg" width="100%" height="100%" /></div>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_7.jpeg" width="100%" height="100%" /></div>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_8.jpeg" width="100%" height="100%" /></div>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_9.jpeg" width="100%" height="100%" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_1.jpeg" class="img-fluid" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_2.jpeg" class="img-fluid" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_4.jpeg" class="img-fluid" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_5.jpeg" class="img-fluid" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_6.jpeg" class="img-fluid" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_7.jpeg" class="img-fluid" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_8.jpeg" class="img-fluid" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_9.jpeg" class="img-fluid" /></div>
 </div>
 <div class="carousel carousel-nav"
   data-flickity='{ "asNavFor": ".carousel-shiv-3", "contain": true, "pageDots": false }'>
@@ -90,10 +90,10 @@ description: A famous waterfall situated in Mandya District of Karnataka State. 
 </div>
 <h2 class="mb-3">Barachukki falls</h2>
 <div class="carousel carousel-main carousel-shiv-4" data-flickity='{"pageDots": false }'>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/bc_1.jpeg" width="100%" height="100%" /></div>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/bc_2.jpeg" width="100%" height="100%" /></div>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/bc_3.jpeg" width="100%" height="100%" /></div>
-  <div class="carousel-cell"><img src="images/posts/shivanasamudra/bc_4.jpeg" width="100%" height="100%" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/bc_1.jpeg" class="img-fluid" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/bc_2.jpeg" class="img-fluid" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/bc_3.jpeg" class="img-fluid" /></div>
+  <div class="carousel-cell"><img src="images/posts/shivanasamudra/bc_4.jpeg" class="img-fluid" /></div>
 </div>
 <div class="carousel carousel-nav"
   data-flickity='{ "asNavFor": ".carousel-shiv-4", "contain": true, "pageDots": false }'>
