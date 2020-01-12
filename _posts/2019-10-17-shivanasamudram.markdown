@@ -135,7 +135,7 @@ description: A famous waterfall situated in Mandya District of Karnataka State. 
   <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_5.jpg" width="120px" height="90px" /></div>
   <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_6.jpg" width="120px" height="90px" /></div>
 </div>
-<h2 class="mb-3">Direction Map</h2>
+<h2 class="mt-4 mb-2">Direction Map</h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d498436.7863919308!2d77.06468274597084!3d12.579786052179085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x3bae1491bfdc6ecd%3A0xf232718439fbc879!2sHSR%20Layout%2C%20Bengaluru%2C%20Karnataka!3m2!1d12.912118099999999!2d77.6445548!4m5!1s0x3bae58514a06ef17%3A0x2b7a698976431240!2sKanakapura%2C%20Karnataka%20562117!3m2!1d12.5462442!2d77.4198823!4m5!1s0x3baf1d3e5b822f1d%3A0xb808c4a633a43ae!2sGaganachukki%20Falls%20View%20Point%2C%20Gaganachukki%20Falls%20Rd%2C%20Karnataka%20571437!3m2!1d12.295967599999999!2d77.1675932!4m5!1s0x3baf1d65f7137723%3A0x639a72bec3e0f094!2sBarachukki%20Waterfalls%2C%20Chamarajnagar%2C%20Karnataka%20571430!3m2!1d12.2878258!2d77.1836675!4m5!1s0x3bae1491bfdc6ecd%3A0xf232718439fbc879!2sHSR%20Layout%2C%20Bengaluru%2C%20Karnataka!3m2!1d12.912118099999999!2d77.6445548!5e0!3m2!1sen!2sin!4v1578816103434!5m2!1sen!2sin" width="100%" height="450px" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 <!--
 {% include comment.html %}
