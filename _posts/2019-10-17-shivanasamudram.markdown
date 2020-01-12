@@ -30,19 +30,40 @@ description: A famous waterfall situated in Mandya District of Karnataka State. 
     <p><b>How to reach :</b> Outstation Cab from Bengaluru or Mysuru, Self Drive Car</p>
     <p><b>Road Condition :</b> Good</p>
     <p><b>Nearby Place :</b> Talakadu, Bheemeshwari</p>
-    <p><b>Traveller's Tips :</b></p>
+    <p><b>Traveller's Tips :</b>
+      <ul>
+        <li>Start as early as possible to avoid wasting time in Bangalore traffic.</li>
+        <li>The best time to visit the Shivanasamudra waterfalls is in monsoon.</li>
+        <li>Pack your snacks and beverages, as the options here are limited.</li>
+        <li>Don't venture to walk down to the bottom of the falls and try to swim in water as rocks are slippery.</li>
+        <li>Boating/Coracle Ride is not available during monsoon or soon after.</li>
+      </ul>
+    </p>
+    <p><b>Stay :</b> Hotel Lakshadeep, Gaganachukki & Hotel Mayura, Barachukki</p>
   </div>
 </div>
 <div class="col-lg-8 order-md-last ftco-animate py-md-5 mt-md-5">
-<h2 class="mb-3">A Day Trip to Shivasamudram</h2>
+<h2 class="mt-2 mb-2">A Day Trip to Shivanasamudra</h2>
 <p>
-  <b>Shivanasamudra</b> is a small town in the Mandya District of the state of Karnataka, India. It is situated on the banks of the river Kaveri, which forms here the boundary to the mandya District, and is the location of one of the first hydro-electric power stations in Asia. Shivanasamudra literally means Shiva’s Sea. 
+  <b>Shivanasamudra</b> is a small town in the Mandya District of the state of Karnataka, India. It is situated on the banks of the river Kaveri, which forms here the boundary to the Mandya District, and is the location of one of the first hydro-electric power stations in Asia. Shivanasamudra literally means Shiva’s Sea.
 </p>
 <p>The eastern branch of the waterfall is known as Barachukki while the western branch is known as Gaganachukki. Barachukki and Gaganachukki waterfalls are together known as the Shivanasamudra Falls.</p>
-<h2 class="mb-3">The Journey Begins</h2>
-<p>It was 17th oct 2019 and it  was Kalyan’s birthday so we decided to celebrate it by having a road trip to shivansamudram. We started from home at morning 8 am by our car.</p>
+<h2 class="mt-4 mb-2">The Journey Begins</h2>
+<p>It was 17th October 2019 and it was Kalyan’s birthday so we decided to celebrate it by having a road trip to Shivanasamudra. We set the navigation and started from home at morning 8 o'clock by our car.</p>
 <img src="images/posts/shivanasamudra/us.jpg" alt="" class="img-fluid">
-<p>Weather was very pleasent we took kankapura road towards shivandrum.View on both side of the raod was very scenic the only disadvantage was you wont find any good place to eat after bangalore</p>
+<h3 class="mt-4 mb-2">Route & Circuit</h3>
+<p>
+  <img src="images/ionicons_svg_md-pin.svg" width="20px" height="auto" />Bengaluru<br>
+  <img src="images/ionicons_svg_md-pin.svg" width="20px" height="auto" />NICE Ring Road<br>
+  <img src="images/ionicons_svg_md-pin.svg" width="20px" height="auto" />Kanakpura (via NH948)<br>
+  <img src="images/ionicons_svg_md-pin.svg" width="20px" height="auto" />Malavalli<br>
+  <img src="images/ionicons_svg_md-pin.svg" width="20px" height="auto" />Gaganachukki falls<br>
+  <img src="images/ionicons_svg_md-pin.svg" width="20px" height="auto" />Bharachukki falls<br>
+  <img src="images/ionicons_svg_md-pin.svg" width="20px" height="auto" />Maddur (via SH17)<br>
+  <img src="images/ionicons_svg_md-pin.svg" width="20px" height="auto" />NICE Ring Road<br>
+  <img src="images/ionicons_svg_md-pin.svg" width="20px" height="auto" />Bengaluru<br>
+</p>
+<p>Weather was very pleasant we decided to take Kankapura road (2 way road) towards Shivanasamudra. View on both sides of the road was very scenic but the only disadvantage was you won't find any good place to eat after Bengaluru.</p>
 <div class="carousel carousel-main carousel-shiv-1" data-flickity='{"pageDots": false }'>
   <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_1.jpeg" class="img-fluid" /></div>
   <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_2.jpeg" class="img-fluid" /></div>
@@ -54,8 +75,8 @@ description: A famous waterfall situated in Mandya District of Karnataka State. 
   <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_2.jpeg" width="120px" height="90px" /></div>
 </div>
 
-<h2 class="mb-3">Gaganachukki falls</h2>
-<p>After having a drive of around 4 hrs we reached gaganchuki around 12 pm. View of the waterfall was very scenic. We stayed there for 1 hr enjoying that mesmerising water site and took pictures. You can only view the waterfall from a distance but you cannot go down and bathing is prohibited. </p>
+<h2 class="mt-4 mb-2">Gaganachukki falls</h2>
+<p>After having a drive of around 4 hrs we reached Gaganchuki around 12 pm. View of the waterfall was very scenic. We stayed there for 1 hr enjoying that mesmerizing water site and took pictures. You can only view the waterfall from a distance but you cannot go down and bathing is prohibited.</p>
 <div class="carousel carousel-main carousel-shiv-3" data-flickity='{"pageDots": false }'>
   <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_1.jpeg" class="img-fluid" /></div>
   <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_2.jpeg" class="img-fluid" /></div>
@@ -77,8 +98,11 @@ description: A famous waterfall situated in Mandya District of Karnataka State. 
   <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_8.jpeg" width="120px" height="90px" /></div>
   <div class="carousel-cell"><img src="images/posts/shivanasamudra/gc_9.jpeg" width="120px" height="90px" /></div>
 </div>
-<h2 class="mb-3">Barachukki falls</h2>
-<p> Barachukki is located at a distance of 14 Km from gaganchukki. We reached there around 1:30 pm.Barachukki is a beautiful waterfall but same like gaganchukki you can see it from a distance.You can go downstairs but only upto 100 steps not below den that. To go downstairs there was a guard who was charging 10 rs per person.By the time we reached it was sunny if you are reaching at afternoon do not forget to carry umbrella or scarf.</p>
+<div class="mt-2 mb-2">
+ <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3898.294141685227!2d77.16539915070867!3d12.29596759125899!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baf1d3e5b822f1d%3A0xb808c4a633a43ae!2sGaganachukki%20Falls%20View%20Point!5e0!3m2!1sen!2sin!4v1578836847291!5m2!1sen!2sin" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe> 
+</div>
+<h2 class="mt-4 mb-2">Barachukki falls</h2>
+<p>Though geographically both the falls are adjacent but the Barachukki viewpoint is located at a distance of 14 Km from the Gaganchukki viewpoint. We reached there around 1:30 pm. Barachukki falls is a beautiful waterfall but the same as Gaganchukki you can see it from a distance. You can go downstairs but only up to 100 steps not below that. To go downstairs there was a guard who was charging 10 rupees per person for the entry. By the time we reached it was sunny if you are reaching in the afternoon do not forget to carry an umbrella or a scarf. You also get a well parking spot here.</p>
 <div class="carousel carousel-main carousel-shiv-4" data-flickity='{"pageDots": false }'>
   <div class="carousel-cell"><img src="images/posts/shivanasamudra/bc_1.jpeg" class="img-fluid" /></div>
   <div class="carousel-cell"><img src="images/posts/shivanasamudra/bc_2.jpeg" class="img-fluid" /></div>
@@ -92,7 +116,9 @@ description: A famous waterfall situated in Mandya District of Karnataka State. 
   <div class="carousel-cell"><img src="images/posts/shivanasamudra/bc_3.jpeg" width="120px" height="90px" /></div>
   <div class="carousel-cell"><img src="images/posts/shivanasamudra/bc_4.jpeg" width="120px" height="90px" /></div>
 </div>
-<p>Its time to return back to  home. Before leaving we had some snacks which we brought along with us. On the way back we crossed the bridge  built over Kaveri. We stopped there for a few mins. View on both side was amazing we clicked some pics and continued our journey. By the time it started raining which made the weather pleasant again. We took mysuru highway and stopped at Maddur for refreshment as there are many small restaurants on mysuru highway. After 4 hours of drive we reached home. Trip to shivansamudram is must for waterfall  and nature lovers
+<div class="mt-2 mb-2"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3898.414842629959!2d77.18147345070855!3d12.287825791264423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baf1dab6549915b%3A0x3548ab1ef13c42d2!2sBarachkki%20waterfall%20view%20point!5e0!3m2!1sen!2sin!4v1578837255924!5m2!1sen!2sin" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe></div>
+<h2 class="mt-4 mb-2">The Return Journey</h2>
+<p>Its time to return back to home. Before leaving we had some snacks which we brought along with us. On the way back we crossed the bridge built over Kaveri river. We stopped there for a few minutes. View on both sides was amazing, we clicked some pictures and continued our journey. By the time it started raining which made the weather pleasant again. It was green all around. We decided to take the way via Maddur. We stopped at Maddur for refreshment as there are many small restaurants on the Mysuru highway. After 4 hours of drive from Shivanasamudra, we reached home. Trip to Shivansamudram is a must for waterfall and nature lovers.
 </p>
 <div class="carousel carousel-main carousel-shiv-2" data-flickity='{"pageDots": false }'>
   <div class="carousel-cell"><img src="images/posts/shivanasamudra/it_3.jpeg" class="img-fluid" /></div>
