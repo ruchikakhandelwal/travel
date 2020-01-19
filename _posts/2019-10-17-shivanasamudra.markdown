@@ -142,7 +142,7 @@ description: A famous waterfall situated in Mandya District of Karnataka State. 
 {% include comment.html %}
 -->
 
-<div class="just-comments" data-apikey="7c7fe47e-d6e2-49f0-83da-08aaf19795b1" data-pageid="karnataka-shivanasamudra"></div>
+<div class="just-comments" data-apikey="7c7fe47e-d6e2-49f0-83da-08aaf19795b1" data-pageid="karnataka-shivanasamudra" data-hideattribution="true"></div>
 <script async src="https://just-comments.com/w2.js"></script>
 
 </div> <!-- .col-md-8 -->
