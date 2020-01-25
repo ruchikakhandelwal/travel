@@ -1,23 +1,155 @@
 {% include header.html %}
-
-<section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('{{page.backdrop}}');" data-stellar-background-ratio="0.5">
-      <div class="overlay"></div>
-      <div class="container">
-        <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-center">
-          <div class="col-md-9 ftco-animate pb-5 text-center">
-            <h1 class="mb-3 bread">{{page.title}}</h1>
-          </div>
+<!--================Home Banner Area =================-->
+<section class="banner_area ">
+    <div class="banner_inner overlay d-flex align-items-center">
+        <div class="container">
+            <div class="banner_content">
+                <h2>{{page.title}}</h2>
+            </div>
         </div>
-      </div>
-    </section>
-    <section class="ftco-section ftco-no-pt ftco-no-pb">
-      <div class="container">
+    </div>
+</section>
+<!--================End Home Banner Area =================-->
+
+<!--================Blog Area =================-->
+<section class="blog_area single-post-area section_gap">
+    <div class="container">
         <div class="row">
-          {{content}}           
+            <div class="col-lg-4 order-md-last">
+                <div class="blog_right_sidebar">
+                    <aside class="single_sidebar_widget popular_post_widget">
+                        <h3 class="widget_title">Informations</h3>
+                        <div class="media post_item">
+                            <img src="img/blog/popular-post/post1.jpg" alt="post">
+                            <div class="media-body">
+                                <a href="blog-details.html">
+                                    <h3>Space The Final Frontier</h3>
+                                </a>
+                                <p>02 Hours ago</p>
+                            </div>
+                        </div>
+                        <div class="media post_item">
+                            <img src="img/blog/popular-post/post2.jpg" alt="post">
+                            <div class="media-body">
+                                <a href="blog-details.html">
+                                    <h3>The Amazing Hubble</h3>
+                                </a>
+                                <p>02 Hours ago</p>
+                            </div>
+                        </div>
+                        <div class="media post_item">
+                            <img src="img/blog/popular-post/post3.jpg" alt="post">
+                            <div class="media-body">
+                                <a href="blog-details.html">
+                                    <h3>Astronomy Or Astrology</h3>
+                                </a>
+                                <p>03 Hours ago</p>
+                            </div>
+                        </div>
+                        <div class="media post_item">
+                            <img src="img/blog/popular-post/post4.jpg" alt="post">
+                            <div class="media-body">
+                                <a href="blog-details.html">
+                                    <h3>Asteroids telescope</h3>
+                                </a>
+                                <p>01 Hours ago</p>
+                            </div>
+                        </div>
+                        <div class="br"></div>
+                    </aside>
+                    <aside class="single_sidebar_widget post_category_widget">
+                        <h4 class="widget_title">Traveller's Tips</h4>
+                        <ul class="list cat-list">
+                            <li>
+                                <a href="#" class="d-flex justify-content-between">
+                                    <p>Technology</p>
+                                    <p>37</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" class="d-flex justify-content-between">
+                                    <p>Lifestyle</p>
+                                    <p>24</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" class="d-flex justify-content-between">
+                                    <p>Fashion</p>
+                                    <p>59</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" class="d-flex justify-content-between">
+                                    <p>Art</p>
+                                    <p>29</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" class="d-flex justify-content-between">
+                                    <p>Food</p>
+                                    <p>15</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" class="d-flex justify-content-between">
+                                    <p>Architecture</p>
+                                    <p>09</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" class="d-flex justify-content-between">
+                                    <p>Adventure</p>
+                                    <p>44</p>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="br"></div>
+                    </aside>
+                    <aside class="single-sidebar-widget tag_cloud_widget">
+                        <h4 class="widget_title">Tags</h4>
+                        <ul class="list">
+                            {% for tag in page.tags%}
+                                <li><a href="#">{{tag}}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </aside>
+                </div>
+            </div>
+
+            <div class="col-lg-8 posts-list">
+                <div class="single-post row">
+                    <div class="col-lg-12">
+                        <div class="feature-img">
+                            <img class="img-fluid" src="img/blog/feature-img1.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3  col-md-3">
+                        <div class="blog_info text-right">
+                            <ul class="blog_meta list">
+                                <li><a href="#">{{page.author}}<i class="lnr lnr-user"></i></a></li>
+                                <li><a href="#">{{page.date | date: '%d %B, %Y' }}<i class="lnr lnr-calendar-full"></i></a></li>
+                            </ul>
+                            <ul class="social-links">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-github"></i></a></li>
+                                <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                {{content}}
+
+                </div>
+                <div class="comments-area">
+                    <div class="just-comments" data-apikey="7c7fe47e-d6e2-49f0-83da-08aaf19795b1" data-pageid="{{page.comment-id}}" data-hideattribution="true"></div>
+                    <script async src="https://just-comments.com/w2.js"></script>
+                </div>
+            </div>
+
+            
         </div>
-      </div>
-    </section> <!-- .section -->
-
-
-
+    </div>
+</section>
+<!--================Blog Area =================-->
 {% include footer.html %}
