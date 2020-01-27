@@ -26,95 +26,28 @@
                 <div class="blog_right_sidebar">
                     <aside class="single_sidebar_widget popular_post_widget">
                         <h3 class="widget_title">Informations</h3>
-                        <div class="media post_item">
-                            <img src="img/blog/popular-post/post1.jpg" alt="post">
-                            <div class="media-body">
-                                <a href="blog-details.html">
-                                    <h3>Space The Final Frontier</h3>
-                                </a>
-                                <p>02 Hours ago</p>
-                            </div>
-                        </div>
-                        <div class="media post_item">
-                            <img src="img/blog/popular-post/post2.jpg" alt="post">
-                            <div class="media-body">
-                                <a href="blog-details.html">
-                                    <h3>The Amazing Hubble</h3>
-                                </a>
-                                <p>02 Hours ago</p>
-                            </div>
-                        </div>
-                        <div class="media post_item">
-                            <img src="img/blog/popular-post/post3.jpg" alt="post">
-                            <div class="media-body">
-                                <a href="blog-details.html">
-                                    <h3>Astronomy Or Astrology</h3>
-                                </a>
-                                <p>03 Hours ago</p>
-                            </div>
-                        </div>
-                        <div class="media post_item">
-                            <img src="img/blog/popular-post/post4.jpg" alt="post">
-                            <div class="media-body">
-                                <a href="blog-details.html">
-                                    <h3>Asteroids telescope</h3>
-                                </a>
-                                <p>01 Hours ago</p>
-                            </div>
-                        </div>
-                        <div class="br"></div>
+                        {% for info in page.informations%}
+                            <p><b> {{info.title}} :</b> {{info.content}}</p>
+                        {% endfor %}
                     </aside>
                     <aside class="single_sidebar_widget post_category_widget">
                         <h4 class="widget_title">Traveller's Tips</h4>
-                        <ul class="list cat-list">
-                            <li>
-                                <a href="#" class="d-flex justify-content-between">
-                                    <p>Technology</p>
-                                    <p>37</p>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="d-flex justify-content-between">
-                                    <p>Lifestyle</p>
-                                    <p>24</p>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="d-flex justify-content-between">
-                                    <p>Fashion</p>
-                                    <p>59</p>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="d-flex justify-content-between">
-                                    <p>Art</p>
-                                    <p>29</p>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="d-flex justify-content-between">
-                                    <p>Food</p>
-                                    <p>15</p>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="d-flex justify-content-between">
-                                    <p>Architecture</p>
-                                    <p>09</p>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="d-flex justify-content-between">
-                                    <p>Adventure</p>
-                                    <p>44</p>
-                                </a>
-                            </li>
-                        </ul>
+                        <ul>
+                            <li>Start as early as possible to avoid wasting time in Bangalore traffic.</li>
+                            <li>The best time to visit the Shivanasamudra waterfalls is in monsoon.</li>
+                            <li>Pack your snacks and beverages, as the options here are limited.</li>
+                            <li>Don't venture to walk down to the bottom of the falls and try to swim in water as rocks are slippery.</li>
+                            <li>Boating/Coracle Ride is not available during monsoon or soon after.</li>
+                          </ul>
                         <div class="br"></div>
                     </aside>
                     <aside class="single-sidebar-widget tag_cloud_widget">
                         <h4 class="widget_title">Route & Circuit</h4>
-                        
+                        <ul class="timeline">
+                            {% for route in page.routes%}
+                                <li><p>{{route}}</p></li>
+                            {% endfor %}
+                        </ul>                        
                     </aside>
                     <aside class="single-sidebar-widget tag_cloud_widget">
                         <h4 class="widget_title">Tags</h4>

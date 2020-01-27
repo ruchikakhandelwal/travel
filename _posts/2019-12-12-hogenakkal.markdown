@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Birthday well spent at Shivanasamudra"
-date:   2019-10-17 18:00:00 +0530
+title:  "Trip to Hogenakkal"
+date:   2019-12-12 22:00:00 +0530
 author: Admin
-categories: ['karnataka', 'shivanasamudra']
-permalink: /karnataka-shivanasamudra
+categories: ['karnataka', 'hogenakkal']
+permalink: /karnataka-hogenakkal
 backdrop: images/posts/shivanasamudra/shivanasamudra-backdrop.jpg
 description: A famous waterfall situated in Mandya District of Karnataka State. It is located at a distance of 130 Kms from Bengaluru and 80 Kms from Mysuru. This is one of the best waterfalls near Bengaluru and also among popular one day trip.
 tags: ['Gaganachukki','Barachukki','Day Trip','Road Trip','Weekend Getaways','Bengaluru','Karnataka','Waterfalls']
