@@ -16,7 +16,6 @@ informations: [{'title':'Best Time', 'content':'After Monsoon'},{'title':'Durati
     <h2>Birthday well spent at Shivanasamudra</h2>
     <p><b>Shivanasamudra</b> is a small town in the Mandya District of the state of Karnataka, India. It is situated on the banks of the river Kaveri, which forms here the boundary to the Mandya District, and is the location of one of the first hydro-electric power stations in Asia. Shivanasamudra literally means Shiva’s Sea.</p>
     <p>The eastern branch of the waterfall is known as Barachukki while the western branch is known as Gaganachukki. Barachukki and Gaganachukki waterfalls are together known as the Shivanasamudra Falls.</p>
-
 </div>
 <div class="col-lg-12">
     <h2>Journey Begins</h2>
