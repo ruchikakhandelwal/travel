@@ -64,7 +64,8 @@ tips:
 </div>
 <div class="col-lg-12">
     <h2>Journey Begins</h2>
-    <p></p>
+    <p>We left home at afternoon 12 am as it was a sudden plan. It was a sunny day but the view on both the side of the way was good as we passed through the countryside area and Anchetty forest zone. There were many elephant trespassing zones and steep turns/hairpin turns in between.</p>
+	<p>Before entering Hogenakkal Falls there was a local toll that cost ₹ 50 for the car. While we were about to reach the falls we came across the Kaveri bank on one side. We stopped there and spent some time on the river bank.</p>
     <div class="mt-2 mb-2">
         <div id="carousel-1" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
@@ -90,7 +91,7 @@ tips:
         </div>
     </div>
 	  <h2>Hogenakkal falls</h2>
-	  <p></p>
+	  <p>We reached Hogenakkal falls around 3:30 pm. There is a ticket counter from which you can buy a ticket ₹ 750 per for a coracle ride which has a maximum capacity of 4-5 people. We headed towards the river bank and sat in the coracle for the ride by the time it was evening and the weather became pleasant. Boat rider took us to one of the waterfalls and we had fun, thereafter that boat rider started saying that if you want to go to some more waterfall you need to pay ₹ 1200 extra plus his driving charges.</p>
 		<div class="mt-2 mb-2">
         <div id="carousel-2" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
@@ -144,6 +145,7 @@ tips:
     </div>
     <h2>Return Journey</h2>
     <p>
+			We wished to stay more but as we have to reach Bengaluru by night we started at 5:30 pm. This time we took another route via Dharampuri. We saw a lot of monkeys sitting on both the side of the way. We stopped at a ghat section and saw the beautiful sunset from the cliff. At evening 7:30 we stopped and had tea and patties which was refreshing. Then again we started our journey back. Since it was a full moon night, the road was illuminated by the moonlight which was very eye-pleasing. We stopped in between and had a view of the moon which was very romantic. We reached Bengaluru at 9:00 pm after having a memorable trip.
     </p>
     <div class="mt-2 mb-2">
         <div id="carousel-3" class="carousel slide" data-ride="carousel">
