@@ -3278,3 +3278,10 @@ ul.timeline > li:before {
   height: 20px;
   z-index: 400;
 }
+
+.carousel-thumbnails .carousel-indicators img {
+  max-width: 100px;
+  height: 50px;
+  overflow: hidden;
+  display: block;
+}
