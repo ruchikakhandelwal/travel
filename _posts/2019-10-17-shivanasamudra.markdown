@@ -11,6 +11,7 @@ tags: ['Gaganachukki','Barachukki','Day Trip','Road Trip','Weekend Getaways','Be
 comment-id: karnataka-shivanasamudra
 routes: ['Bengaluru','NICE Ring Road','Kanakpura (via NH948)','Gaganachukki falls','Bharachukki falls','Maddur','Ramnagara (via SH17)','NICE Ring Road','Bengaluru']
 informations: [{'title':'Best Time', 'content':'After Monsoon'},{'title':'Duration', 'content':'3-4 Hrs'},{'title':'Things to Do', 'content':'Nature trail, Photography'},{'title':'Nearest City', 'content':'Mysuru (80 Kms), Bengaluru (130 Kms)'},{'title':'How to reach', 'content':'Outstation Cab from Bengaluru or Mysuru, Self Drive Car'},{'title':'Road Condition', 'content':'Good'},{'title':'Nearby Place', 'content':'Talakadu, Bheemeshwari'},{'title':'Stay', 'content':'Hotel Lakshadeep, Gaganachukki & Hotel Mayura, Barachukki'}]
+tips: ['Start as early as possible to avoid wasting time in Bangalore traffic.','The best time to visit the Shivanasamudra waterfalls is in monsoon.','Pack your snacks and beverages, as the options here are limited.','Do not venture to walk down to the bottom of the falls and try to swim in water as rocks are slippery.','Boating/Coracle Ride is not available during monsoon or soon after.']
 ---
 <div class="col-lg-9 col-md-9 blog_details">
     <h2>Birthday well spent at Shivanasamudra</h2>

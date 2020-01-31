@@ -33,12 +33,10 @@
                     <aside class="single_sidebar_widget post_category_widget">
                         <h4 class="widget_title">Traveller's Tips</h4>
                         <ul>
-                            <li>Start as early as possible to avoid wasting time in Bangalore traffic.</li>
-                            <li>The best time to visit the Shivanasamudra waterfalls is in monsoon.</li>
-                            <li>Pack your snacks and beverages, as the options here are limited.</li>
-                            <li>Don't venture to walk down to the bottom of the falls and try to swim in water as rocks are slippery.</li>
-                            <li>Boating/Coracle Ride is not available during monsoon or soon after.</li>
-                          </ul>
+                            {% for tip in page.tips%}
+                                <li>{{tip}}</li>
+                            {% endfor %}
+                        </ul>
                     </aside>
                     <aside class="single-sidebar-widget tag_cloud_widget">
                         <h4 class="widget_title">Route & Circuit</h4>
